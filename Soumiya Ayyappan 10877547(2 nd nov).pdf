@@ -1,0 +1,1394 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5188
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0. 0.125 0.376 rg
+164.6199999999999193 785.1970866141732586 Td
+(Virtual Avatar Summary Report) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 742.6774015748030706 Td
+(Date: ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+87.0529133858267841 742.6774015748030706 Td
+(2nd November 2026) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+412.0870866141731312 742.6774015748030706 Td
+(Timestamp: ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+476.6570866141731813 742.6774015748030706 Td
+(18:03:26 PM) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 714.3309448818897636 Td
+(Category: ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+110.8129133858267892 714.3309448818897636 Td
+(Domain) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 671.8112598425196893 Td
+(Learner Profile:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 651.9687401574802834 Td
+(Name: Soumiya Ayyappan) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 634.9608661417322537 Td
+(Role: Graduate Apprentice | Domain: Graduate Apprentice) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 617.952992125984224 Td
+(Tech Stack: ) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 583.9372440944881646 Td
+(Initial Q&A Setup:) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 561.2600787401574962 Td
+(Q: Which technology or domain do you want to focus on?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 544.2522047244094665 Td
+(A: Databricks) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 515.9057480314959321 Td
+(Q: Is this for Concept Learning or a live issue?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 498.8978740157479592 Td
+(A: Concept Learning) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 447.8742519685038701 Td
+(Session Conversation:) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 425.1970866141731449 Td
+([05:48 PM] Me:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 408.1892125984251152 Td
+(Hello! Here is some background context about me for our session. My primary focus category for) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 391.1813385826770855 Td
+(this session is domain. I am Soumiya Ayyappan, working as a Graduate Apprentice in the Graduate) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 374.1734645669290558 Td
+(Apprentice domain. My tech stack includes . Here are some specific details about my project) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 357.1655905511810261 Td
+(architecture: Regarding "Which technology or domain do you want to focus on?", my answer is) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 340.1577165354329964 Td
+("Databricks". Regarding "Is this for Concept Learning or a live issue?", my answer is "Concept) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 323.1498425196849666 Td
+(Learning". Please use this information as context for my questions. Do not use a generic opening) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 306.1419685039369369 Td
+(greeting. Instead, greet me as Phoebe, briefly summarize that you understand my background and) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 289.1340944881889072 Td
+(focus area, and ask what we should focus on today!) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 260.7876377952754865 Td
+([05:49 PM] PHOEBE:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 243.7797637795274568 Td
+(Hello Soumiya, I’m Phoebe. I understand you’re a Graduate Apprentice focusing on Databricks for) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 226.7718897637794271 Td
+(concept learning. What specific aspect of Databricks would you like to explore today? ) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 198.4254330708660063 Td
+([05:49 PM] Me:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 181.4175590551179766 Td
+(words and these terms? Can you elaborate me each of these terms?) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 153.0711023622046696 Td
+([05:49 PM] PHOEBE:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 136.0632283464566399 Td
+(Certainly, Soumiya. Let's break down these terms: 1. Databases: Traditional systems for storing) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 119.0553543307086102 Td
+(structured data, typically organized into tables. They are great for transactional data. 2. Data) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 102.0474803149605805 Td
+(Warehouse: A centralized repository that stores large amounts of structured data from multiple) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 85.0396062992125508 Td
+(sources. It’s optimized for analysis and reporting. 3. Data Lake: A storage system that holds vast) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 6408
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(amounts of raw data in its native format until ) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 756.8506299212598378 Td
+([05:50 PM] Me:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 739.8427559055118081 Td
+(some real time analogy so that I can easily understand?) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 711.4962992125983874 Td
+([05:50 PM] PHOEBE:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 694.4884251968503577 Td
+(Surely! Think of it like a library system. A database is like a single bookshelf with organized books) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 677.480551181102328 Td
+(\(structured data\). A data warehouse is like a whole library where books from different shelves \(data) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 660.4726771653542983 Td
+(sources\) are collected for easy access and analysis. A data lake is like a storage room where all) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 643.4648031496062686 Td
+(kinds of materials \(raw data\) are stored, regardless of format. Delta Lake adds structure and) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 626.4569291338582389 Td
+(reliability to the storage room, ensuring the materials are organized and accessible, just like having) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 609.4490551181102092 Td
+(a catalog system for the storage room. Does this analogy help clarify the transition between these) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 592.4411811023621794 Td
+(concepts? ) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 564.0947244094487587 Td
+([05:51 PM] Me:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 547.086850393700729 Td
+(Medellin architecture like that, uh, have to move about? Can you guide me?) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 518.7403937007873083 Td
+([05:52 PM] PHOEBE:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 501.7325196850393354 Td
+(Certainly! In Databricks, the Azure Data Portal serves as a central interface for managing data.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 484.7246456692913057 Td
+(Here’s a brief overview: 1. Metastore: It’s a repository that stores metadata about your data assets,) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 467.716771653543276 Td
+(like tables and schemas. It helps manage and organize your data. 2. Unity Catalog: This enhances) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 450.7088976377952463 Td
+(data governance by providing a unified view of your data across different workspaces. It allows you) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 433.7010236220471597 Td
+(to manage permissions and track data lineage. 3. Data Ingestion: This involves moving data from) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 416.69314960629913 Td
+(various sources into your Databricks environment. You can use tools like Apache Spark, or built-in) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 399.6852755905511003 Td
+(connectors to load data from databases, data lakes, or external files. For your Capstone project,) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 382.6774015748030706 Td
+(consider defining your data sources and how you’ll structure them in the Metastore. What specific) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 365.6695275590550409 Td
+(data do you plan to load, and how will you organize it? Shall we explore the ingestion methods) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 348.6616535433070112 Td
+(suitable for your architecture? ) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 320.3151968503935905 Td
+([05:52 PM] Me:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 303.3073228346455608 Td
+(gold.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 274.9608661417322537 Td
+([05:55 PM] PHOEBE:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 257.952992125984224 Td
+(Let's break this down step by step, Soumiya: 1. Databricks Portal Overview: Workspace: This is) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 240.9451181102361943 Td
+(your collaborative environment where you can create notebooks, manage clusters, and organize) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 223.9372440944881646 Td
+(your projects. Notebooks: Interactive documents where you can write code \(like Python, Scala\),) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 206.9293700787401349 Td
+(visualize data, and document your analysis. Dashboards: Visual representations of your data,) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 189.9214960629919915 Td
+(allowing you to share insights and results with stakeholders. Data Breaches: Security features to) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 172.9136220472439618 Td
+(manage access and protect sensitive data. 2. AI and ML: Databricks supports machine learning) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 155.9057480314959321 Td
+(workflows with integrated libraries like MLlib and tools for model training, evaluation, and) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 138.8978740157479024 Td
+(deployment. 3. Catalyst Optimizer: This is a query optimization engine in Apache Spark that) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 121.8899999999998727 Td
+(improves the performance of your queries by optimizing the execution plan. It analyzes the logical) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 104.882125984251843 Td
+(plan and applies various optimization techniques. 4. Data Uploading: ADLS \(Azure Data Lake) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 87.8742519685038133 Td
+(Storage\): You can directly upload files to ADLS using the Databricks interface or Azure Storage) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 6638
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(Explorer. Azure SQL Database: To upload CSV data, you can use the BULK INSERT command.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 768.1892125984252289 Td
+(Here’s a simplified example: BULK INSERT your_table_name FROM 'path_to_your_csv_file' WITH) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 751.1813385826771992 Td
+(\(FORMAT = 'CSV', FIRSTROW = 2\); This command imports data from the specified CSV file into) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 734.1734645669291695 Td
+(your Azure SQL table. 5. Bronze, Silver, Gold: This is a common data architecture: Bronze: Raw) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 717.1655905511811397 Td
+(data ingestion, where data is stored as-is. Silver: Processed data that has been cleaned and) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 700.15771653543311 Td
+(transformed. Gold: Final, aggregated data ready for analysis and reporting. What specific part of) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 683.1498425196850803 Td
+(this process would you like to dive deeper into? Shall we focus on data ingestion methods or the) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 666.1419685039369369 Td
+(architecture layers? ) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 637.7955118110235162 Td
+([05:55 PM] Me:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 620.7876377952754865 Td
+(is a day one.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 592.4411811023621794 Td
+([05:56 PM] Me:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 575.4333070866141497 Td
+(We need to do.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 547.086850393700729 Td
+([05:58 PM] PHOEBE:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 530.0789763779526993 Td
+(Certainly, Soumiya! Let's tackle this step by step: 1. Uploading CSV to Azure SQL Database: You) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 513.0711023622046696 Td
+(can use the BULK INSERT command to load CSV files into your Azure SQL database. Here’s a) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 496.0632283464566399 Td
+(general structure for the command: BULK INSERT your_table_name FROM 'path_to_your_csv_file') Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 479.0553543307086102 Td
+(WITH \( DATA_SOURCE = 'your_data_source_name', FORMAT = 'CSV', FIRSTROW = 2,) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 462.0474803149605805 Td
+(FIELDTERMINATOR = ',', ROWTERMINATOR = '\\n' \); Ensure that your CSV file is accessible) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 445.0396062992125508 Td
+(through a shared access signature \(SAS\) token, and the DATA_SOURCE refers to the external) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 428.0317322834645211 Td
+(data source you've configured in your SQL database. 2. Data Profiling in the Bronze Layer: Once) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 411.0238582677164914 Td
+(your data is ingested, data profiling involves analyzing the data's structure, quality, and content.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 394.0159842519684616 Td
+(This can include: Checking for null values Identifying data types Understanding distributions \(e.g.,) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 377.0081102362204319 Td
+(min, max values\) Tools like Azure Databricks can help you perform these analyses using Spark) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 360.0002362204724022 Td
+(DataFrames. You can write code to summarize your data and identify any issues that need) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 342.9923622047243725 Td
+(addressing. 3. Bronze Layer Process: In the Bronze layer, you primarily store raw, unprocessed) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 325.9844881889763428 Td
+(data. After ingestion, you might want to: Validate the data structure Log any errors or issues for) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 308.9766141732283131 Td
+(further investigation Prepare the data for cleaning and transformation in the Silver layer What) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 291.9687401574802834 Td
+(specific aspect of the data profiling or the Bronze layer process would you like to explore further?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 274.9608661417322537 Td
+(Shall we look into data validation techniques or transformation steps for the Silver layer? ) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 246.614409448818833 Td
+([05:58 PM] Me:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 229.6065354330708033 Td
+(team, uh, tell me that process.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 201.2600787401573825 Td
+([05:59 PM] PHOEBE:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 184.2522047244093528 Td
+(Surely, Soumiya! Let’s outline the processes for the Bronze, Silver, and Gold layers, along with) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 167.2443307086613231 Td
+(dashboard creation and access management: 1. Bronze Layer: Ingest raw data, validate structure,) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 150.2364566929132934 Td
+(and log errors. You might store this data in Delta Lake format for efficient handling. Use Spark) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 133.2285826771652637 Td
+(DataFrames to read, validate, and store the data. 2. Silver Layer: Here, you clean and transform) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 116.220708661417234 Td
+(the data. This can include: Removing duplicates Filling in missing values Normalizing data formats) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 99.2128346456692043 Td
+(You can create new tables or views in your Databricks workspace for this processed data. 3. Gold) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 82.2049606299211746 Td
+(Layer: This layer contains aggregated and refined data, ready for analysis. You can create) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 6981
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(summary tables or views that provide insights for reporting. 4. Dashboard Creation: In Databricks,) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 768.1892125984252289 Td
+(you can create dashboards using visualizations from your notebooks. Once you have your) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 751.1813385826771992 Td
+(visualizations, you can pin them to a dashboard for easy access and sharing. 5. Data Repository) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 734.1734645669291695 Td
+(and Access Management: To share access with your team, you can use Unity Catalog to manage) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 717.1655905511811397 Td
+(permissions. You can create a shared workspace, set up access controls, and manage user) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 700.15771653543311 Td
+(permissions to ensure your team can access the necessary data and dashboards. What part of this) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 683.1498425196850803 Td
+(process would you like to explore in more detail? Shall we discuss specific transformation) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 666.1419685039369369 Td
+(techniques for the Silver layer or how to set up dashboards? ) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 637.7955118110235162 Td
+([05:59 PM] Me:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 620.7876377952754865 Td
+(bronze.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 592.4411811023621794 Td
+([06:01 PM] PHOEBE:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 575.4333070866141497 Td
+(Certainly, Soumiya! Let’s break this down into the GitHub sharing process and the Bronze layer) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 558.42543307086612 Td
+(data profiling: 1. GitHub Repository Sharing: Your colleague can create a GitHub repository for your) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 541.4175590551180903 Td
+(project and then share it with the team. Here are the general steps: - Create a new repository on) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 524.4096850393700606 Td
+(GitHub. - Add team members as collaborators or share the repository link with the necessary) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 507.4018110236219741 Td
+(access permissions. - Use branches for different features or tasks, allowing team members to work) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 490.3939370078739444 Td
+(independently. - Encourage team members to commit their changes regularly and use pull requests) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 473.3860629921259147 Td
+(to merge changes into the main branch. This way, everyone can see the latest code and contribute) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 456.378188976377885 Td
+(effectively. 2. Source Data Profiling in the Bronze Layer: After ingesting raw data, profiling involves) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 439.3703149606298552 Td
+(analyzing its quality and structure. This can include: - Checking for missing values or anomalies. -) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 422.3624409448818255 Td
+(Understanding data types and distributions. - Logging any issues for future cleaning or) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 405.3545669291337958 Td
+(transformation. You can use Spark SQL or DataFrame operations in Databricks to perform these) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 388.3466929133857661 Td
+(profiling tasks and document your findings in your GitHub repository. This documentation can help) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 371.3388188976377364 Td
+(your team understand the raw data's characteristics and any necessary steps for cleaning in the) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 354.3309448818897067 Td
+(Silver layer. Would you like to dive deeper into Git commands for collaboration or specific profiling) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 337.323070866141677 Td
+(techniques? ) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 308.9766141732283131 Td
+([06:01 PM] Me:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 291.9687401574802834 Td
+(If you want to just elaborate me on that.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 263.6222834645668627 Td
+([06:02 PM] PHOEBE:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 246.614409448818833 Td
+(Certainly! Let’s elaborate on both the GitHub sharing process and the source data profiling in the) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 229.6065354330708033 Td
+(Bronze layer: 1. GitHub Repository Sharing: Creating a Repository: Your colleague can create a) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 212.5986614173227736 Td
+(new repository on GitHub by selecting the "New" button on the repositories page. They should) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 195.5907874015747439 Td
+(provide a name, description, and choose either public or private visibility. Adding Collaborators:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 178.5829133858267141 Td
+(Once the repository is created, they can navigate to "Settings" > "Manage Access" to invite team) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 161.5750393700786844 Td
+(members by their GitHub usernames or email addresses. This allows them to collaborate on the) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 144.5671653543306547 Td
+(project. Branching Strategy: Encourage the use of branches for different tasks. For example, a) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 127.559291338582625 Td
+(branch named data-profiling can be created for profiling tasks. Team members can work on their) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 110.5514173228345953 Td
+(branches and later create pull requests to merge their changes into the main branch. Committing) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 93.5435433070865656 Td
+(Changes: Regular commits with clear messages help track changes. For example, a commit) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 76.5356692913385359 Td
+(message like "Added data profiling scripts" provides context for future reference. Pull Requests:) Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 312
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(When a team member wants to merge their branch into the main branch, they can create a pull) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 768.1892125984252289 Td
+(request. ) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R ]
+/Count 5
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+25 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+26 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 13 0 R
+/F2 14 0 R
+/F3 15 0 R
+/F4 16 0 R
+/F5 17 0 R
+/F6 18 0 R
+/F7 19 0 R
+/F8 20 0 R
+/F9 21 0 R
+/F10 22 0 R
+/F11 23 0 R
+/F12 24 0 R
+/F13 25 0 R
+/F14 26 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+27 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20261102180326+05'30')
+>>
+endobj
+28 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 29
+0000000000 65535 f 
+0000026491 00000 n 
+0000028338 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000005392 00000 n 
+0000005529 00000 n 
+0000011989 00000 n 
+0000012126 00000 n 
+0000018816 00000 n 
+0000018954 00000 n 
+0000025988 00000 n 
+0000026127 00000 n 
+0000026573 00000 n 
+0000026699 00000 n 
+0000026830 00000 n 
+0000026964 00000 n 
+0000027102 00000 n 
+0000027226 00000 n 
+0000027355 00000 n 
+0000027487 00000 n 
+0000027623 00000 n 
+0000027751 00000 n 
+0000027878 00000 n 
+0000028007 00000 n 
+0000028140 00000 n 
+0000028242 00000 n 
+0000028591 00000 n 
+0000028677 00000 n 
+trailer
+<<
+/Size 29
+/Root 28 0 R
+/Info 27 0 R
+/ID [ <B1F0186A734589F9E06473D1F5FC41C9> <B1F0186A734589F9E06473D1F5FC41C9> ]
+>>
+startxref
+28781
+%%EOF
